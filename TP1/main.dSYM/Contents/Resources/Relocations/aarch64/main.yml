@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/rezzouqa/Documents/ENSEA/2024_25/prog_sys/TP1/main'
+relocations:     []
+...
