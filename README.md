@@ -8,8 +8,11 @@ Ce projet consistait à créer un micro shell appelé enseash, un programme capa
 Ce TP m’a permis de mieux comprendre certaines notions clés, comme :
 
 fork() : Comment un processus père peut créer un processus fils pour exécuter une commande.
+
 execvp : L’exécution d’une commande avec des arguments.
+
 La gestion des signaux et des codes de retour : J’ai appris à détecter si une commande s’arrête normalement ou si elle est tuée par un signal.
+
 La mesure du temps d’exécution : Avec clock_gettime(), j’ai pu calculer la durée d’exécution d’une commande et afficher cette information dans le prompt.
 
 ---------------------Problèmes rencontrés
