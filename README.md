@@ -1,7 +1,7 @@
 # TP_Shell_Synthese
 ---------------------Description du TP
 
-Ce projet consistait à créer un micro shell appelé enseash, un programme capable d'exécuter des commandes système et d'afficher des informations comme le temps d'exécution ou les codes de retour des commandes. C'était l'occasion de découvrir des concepts liés à la gestion des processus en C.
+Ce projet consistait à créer un micro shell appelé enseash, un programme capable d'exécuter des commandes système et d'afficher des informations comme le temps d'exécution ou les codes de retour des commandes.
 
 ---------------------Ce que j'ai appris
 
