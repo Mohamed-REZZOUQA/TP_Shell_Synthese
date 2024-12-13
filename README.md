@@ -17,7 +17,7 @@ La mesure du temps d’exécution : Avec clock_gettime(), j’ai pu calculer la 
 
 ---------------------Problèmes rencontrés
 
-Au début de la deuxième séance, j’ai eu des problèmes avec mon code, car j’avais séparé mes fonctions dans plusieurs fichiers pour rendre le code plus clair. Cependant, cela a causé des erreurs de compilation difficiles à gérer sur le moment. Pour avancer, j’ai tout regroupé dans un seul fichier avec le main. Même si ce n’est pas optimal, cela m’a permis de comprendre mon code plus facilement et de corriger les erreurs.
+Au début de la deuxième séance, j’ai eu des problèmes avec mon code, car j’avais séparé mes fonctions dans plusieurs fichiers pour rendre le code plus clair. Cependant, cela a causé des erreurs de compilation difficiles à gérer sur le moment. Pour avancer, j’ai tout regroupé dans un seul fichier main. Même si ce n’est pas optimal, cela m’a permis de comprendre mon code plus facilement et de corriger les erreurs.
 
 ---------------------Conclusion
 
